@@ -1,0 +1,6 @@
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb

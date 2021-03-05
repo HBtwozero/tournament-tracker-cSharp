@@ -22,3 +22,10 @@ C:\Users\kangr\Source\Repos\tournament-tracker-cSharp\TournamentTracker\TrackerU
 C:\Users\kangr\Source\Repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
 C:\Users\kangr\Source\Repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
 C:\Users\kangr\Source\Repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
