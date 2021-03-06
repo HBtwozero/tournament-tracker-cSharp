@@ -29,3 +29,6 @@ C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\T
 C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
 C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
 C:\Users\10282138.BDX\source\repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\kangr\Source\Repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\kangr\Source\Repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\kangr\Source\Repos\tournament-tracker-cSharp\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
